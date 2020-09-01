@@ -1,2 +1,2 @@
-require('./styles/styles.css');
 alert("WORKS!");
+require('./styles/styles.css');
