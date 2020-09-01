@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/819a8af8-8e46-4a11-a2af-f46f3568532f/resourceGroups/GUC-RG/providers/Microsoft.Web/sites/georgeule-ticketsystem",
-    "appService.deploySubpath": "."
-}
